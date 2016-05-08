@@ -1,3 +1,5 @@
+//U10416018 陳宗佑
+
 import java.math.BigDecimal;
 
 public class Accurate{
